@@ -20,7 +20,7 @@ This is a beginner-friendly To-Do List application developed using Python and Tk
 
 ## 📸 Screenshots
 
-
+![To-Do App Screenshot](screenshot.png)
 
 ## 📁 How to Run
 
