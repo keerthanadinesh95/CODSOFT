@@ -23,7 +23,7 @@ Hi! I'm **Keerthana Dinesh**, and this repository contains all the tasks I've co
 
 | Task No. | Task Title                       | Status        | Link to Task Folder |
 |----------|----------------------------------|---------------|----------------------|
-| Task 1   | [Python Task Title Placeholder]  | ✅ Completed   | [View](./Task_1/)    |
+| Task 1   | Task1_ToDoAPP  | ✅ Completed   | [View](./Task_1/)    |
 | Task 2   | [Python Task Title Placeholder]  | ⏳ In Progress | [View](./Task_2/)    |
 | Task 3   | [Python Task Title Placeholder]  | ⏳ Upcoming    | [View](./Task_3/)    |
 
