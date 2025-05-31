@@ -50,13 +50,13 @@ This project is a secure, customizable **Password Generator GUI** application bu
 
 ## 📸 Demo Screenshot
 
-![Password Generator GUI](./screenshot.png) <!-- Replace with actual screenshot filename -->
+![Password Generator GUI](./screenshot.png)
 
 ---
 
 ## 🔗 Live Demo
 
-🎥 [Add your Loom/LinkedIn video link here once uploaded]
+https://www.linkedin.com/posts/keerthanadinesh95_python-gui-tkinter-activity-7334640123063533568-Q5eu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACJsmkABU8WssLczGmkP_xntxUjnFbJF50Q
 
 ---
 
@@ -67,7 +67,6 @@ Task3_PasswordGenerator/
 ├── password_generator_gui.py
 ├── README.md
 ├── screenshot.png
-└── requirements.txt (optional)
 ```
 
 ---
