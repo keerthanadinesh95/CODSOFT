@@ -32,15 +32,11 @@ This project is part of my internship at **CODSOFT**. It’s a simple, functiona
 ```
 Task1_TodoList/
 │
-├── main.py
-├── tasks.txt
+├── todo_list_gui.py
+├── tasks.json
 ├── screenshot.png
 └── README.md
 ```
-
-## 📎 GitHub
-
-The full source code is available here: [GitHub Repo Link]
 
 ---
 **#CODSOFT #Python #Tkinter #ToDoApp #InternshipProject**
