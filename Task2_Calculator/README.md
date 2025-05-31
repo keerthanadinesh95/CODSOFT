@@ -26,6 +26,9 @@ This project is part of my internship at **CODSOFT**. It’s a GUI Calculator ap
 
 ![Calculator GUI](./screenshot.png)
 
+## 🔗 Live Demo
+https://www.linkedin.com/posts/keerthanadinesh95_codsoft-pythondeveloper-tkinter-activity-7334637096554373121-g3kV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACJsmkABU8WssLczGmkP_xntxUjnFbJF50Q
+
 ## 📂 Folder Structure
 
 ```
