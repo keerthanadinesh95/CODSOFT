@@ -36,9 +36,5 @@ Task2_Calculator/
 └── README.md
 ```
 
-## 📎 GitHub
-
-The full source code is available here: [GitHub Repo Link]
-
 ---
 **#CODSOFT #Python #Tkinter #Calculator #InternshipProject**
