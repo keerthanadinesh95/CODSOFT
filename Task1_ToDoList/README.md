@@ -25,7 +25,7 @@ This project is part of my internship at **CODSOFT**. It’s a simple, functiona
 
 ## 📸 Screenshot
 
-*(Include a screenshot of your app here, e.g., `screenshot.png`)*
+screenshot.png
 
 ## 📂 Folder Structure
 
