@@ -27,6 +27,11 @@ This project is part of my internship at **CODSOFT**. It’s a simple, functiona
 
 ![To Do List GUI](./screenshot.png)
 
+## 🔗 Live Demo
+
+https://www.linkedin.com/posts/keerthanadinesh95_codsoft-activity-7334632424313602048-kH8M?utm_source=share&utm_medium=member_desktop&rcm=ACoAACJsmkABU8WssLczGmkP_xntxUjnFbJF50Q
+
+
 ## 📂 Folder Structure
 
 ```
