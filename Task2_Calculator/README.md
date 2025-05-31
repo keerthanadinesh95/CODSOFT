@@ -24,7 +24,7 @@ This project is part of my internship at **CODSOFT**. It’s a GUI Calculator ap
 
 ## 📸 Screenshot
 
-screenshot.png
+![Calculator GUI](./screenshot.png)
 
 ## 📂 Folder Structure
 
