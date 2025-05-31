@@ -93,7 +93,6 @@ Task3_PasswordGenerator/
 👩‍💻 **Keerthana Dinesh**  
 AI/ML Enthusiast | CodSoft Intern | Exploring the world of intelligent systems.  
 📫 [LinkedIn Profile](https://www.linkedin.com/in/keerthana-dinesh/)  
-🔗 Portfolio/GitHub – Coming soon!
 
 ---
 
