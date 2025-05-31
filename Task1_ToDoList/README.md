@@ -25,7 +25,7 @@ This project is part of my internship at **CODSOFT**. It’s a simple, functiona
 
 ## 📸 Screenshot
 
-screenshot.png
+![To Do List GUI](./screenshot.png)
 
 ## 📂 Folder Structure
 
